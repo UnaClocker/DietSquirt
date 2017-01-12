@@ -47,13 +47,13 @@ them as spares. Don’t sell them, you’ll risk the wrath of the B&G lawyers.
 See the attached BOM for the list of parts you’ll want to order from Digikey 
 for this board.
 
-The files are for Eagle. Load the .pro project file, then load the .sch 
-schematic file and .brd board layout file. The gerbers are included, but 
-since the board needs work still, I wouldn't suggest building it. At the 
-very least, you'd have to run an external 5v voltage regulator. I'd have 
-prefered to have done the board in KiCad,
-but I knew Eagle better at the time. You can get a free version of Eagle, 
-google it, download it. Works in all 3 major OS's.
+The files are for Eagle. Place the .brd and .sch files in a DietSquirt folder
+under your main eagle projects, then load the .sch schematic file and .brd board 
+layout file. The gerbers are included, but since the board needs work still, 
+I wouldn't suggest building having it produced. At the very least, you'd have 
+to run an external 5v voltage regulator. I'd have prefered to have done the 
+board in KiCad, but I knew Eagle better at the time. You can get a free version 
+of Eagle, google it, download it. Works in all 3 major OS's.
 
 I’m probably forgetting a lot. I’ll document more as time allows. 
 Questions? unaclocker@gmail.com
