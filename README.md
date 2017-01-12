@@ -8,7 +8,9 @@ firmware. Now being that this is not a licensed board, you shouldn’t run
 their firmware on it. But if you do, who am I to stop you. ;) You’re not 
 supposed to run MegaSquirt on street cars either, but most MegaSquirt users 
 do.
+
 Please watch the video about this: https://www.youtube.com/watch?v=LJTZ3sH1d-M
+
 This project is licensed under the BSD License. Take it and do anything with
 it. If you mass produce and sell it, I hope you’re not using the MegaSquirt 
 firmware, their lawyers will bury you. Your own personal use, totally another 
@@ -17,6 +19,7 @@ Ideally, the MegaSquirt firmware can prove the board, then we can switch to
 a far better processor and far more open firmware like the STM32F4 with 
 RusEFI firmware. I signed the board “Anonymous” because of the risk of 
 B&G’s lawyers. 
+
 As stated, this board is a work in progress. I’d like to say I can come 
 back and finish it, but I designed it two years ago, maybe 2 1/2 years at 
 this point. Right after that I discovered my wife was having an affair 
