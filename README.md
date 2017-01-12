@@ -8,7 +8,7 @@ firmware. Now being that this is not a licensed board, you shouldn’t run
 their firmware on it. But if you do, who am I to stop you. ;) You’re not 
 supposed to run MegaSquirt on street cars either, but most MegaSquirt users 
 do.
-Please watch the video about this which will be posted on YouTube shortly.
+Please watch the video about this: https://www.youtube.com/watch?v=LJTZ3sH1d-M
 This project is licensed under the BSD License. Take it and do anything with
 it. If you mass produce and sell it, I hope you’re not using the MegaSquirt 
 firmware, their lawyers will bury you. Your own personal use, totally another 
