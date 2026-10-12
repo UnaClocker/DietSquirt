@@ -1,0 +1,325 @@
+** Drc report for DietSquirt.kicad_pcb **
+** Created on 2026-10-09T11:32:21 **
+** Report includes: Errors, Warnings **
+
+** Found 68 DRC violations **
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(99.9950 mm, 42.5425 mm): Pad 1 [VCC] of INPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(102.7650 mm, 42.5425 mm): Pad 2 [MAP] of INPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(105.5350 mm, 42.5425 mm): Pad 3 [MAT] of INPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(108.3050 mm, 42.5425 mm): Pad 4 [CLT] of INPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(111.0750 mm, 42.5425 mm): Pad 5 [TPS] of INPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(113.8450 mm, 42.5425 mm): Pad 6 [O2] of INPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(116.6150 mm, 42.5425 mm): Pad 7 [CAM_RAW] of INPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(119.3850 mm, 42.5425 mm): Pad 8 [CRANK_RAW] of INPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(101.3800 mm, 42.5425 mm): Pad 9 [GND] of INPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(104.1500 mm, 42.5425 mm): Pad 10 [GND] of INPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(106.9200 mm, 42.5425 mm): Pad 11 [GND] of INPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(109.6900 mm, 42.5425 mm): Pad 12 [GND] of INPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(112.4600 mm, 42.5425 mm): Pad 13 [GND] of INPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(115.2300 mm, 42.5425 mm): Pad 14 [GND] of INPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3025 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(118.0000 mm, 42.5425 mm): Pad 15 [GND] of INPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(90.3800 mm, 138.5000 mm): Pad 1 [INJ1] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(93.1500 mm, 138.5000 mm): Pad 2 [INJ1] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(95.9200 mm, 138.5000 mm): Pad 3 [INJ2] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(98.6900 mm, 138.5000 mm): Pad 4 [INJ2] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(101.4600 mm, 138.5000 mm): Pad 5 [COILA] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(104.2300 mm, 138.5000 mm): Pad 6 [COILB] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(107.0000 mm, 138.5000 mm): Pad 7 [COILC] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(109.7700 mm, 138.5000 mm): Pad 8 [COILD] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(112.5400 mm, 138.5000 mm): Pad 9 [FP1] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(115.3100 mm, 138.5000 mm): Pad 10 [FAN] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(118.0800 mm, 138.5000 mm): Pad 11 [TACH] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(120.8500 mm, 138.5000 mm): Pad 12 [IDL] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(123.6200 mm, 138.5000 mm): Pad 13 [/RAW12V] of OUTPUT0 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(91.7650 mm, 138.5000 mm): Pad 14 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(94.5350 mm, 138.5000 mm): Pad 15 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(97.3050 mm, 138.5000 mm): Pad 16 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(100.0750 mm, 138.5000 mm): Pad 17 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(102.8450 mm, 138.5000 mm): Pad 18 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(105.6150 mm, 138.5000 mm): Pad 19 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(108.3850 mm, 138.5000 mm): Pad 20 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(111.1550 mm, 138.5000 mm): Pad 21 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(113.9250 mm, 138.5000 mm): Pad 22 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(116.6950 mm, 138.5000 mm): Pad 23 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(119.4650 mm, 138.5000 mm): Pad 24 [GND] of OUTPUT0 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2600 mm)
+    Rule: board setup constraints edge; error
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(122.2350 mm, 138.5000 mm): Pad 25 [GND] of OUTPUT0 on B.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer GND; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0150 mm, 40.5000 mm): Zone [GND] on GND, priority 0
+    @(135.0400 mm, 45.1750 mm): PTH pad B1 [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on B.Cu, priority 3
+    @(135.0400 mm, 45.1750 mm): PTH pad B1 [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer GND; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0150 mm, 40.5000 mm): Zone [GND] on GND, priority 0
+    @(140.9900 mm, 45.1750 mm): PTH pad B12 [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on B.Cu, priority 3
+    @(140.9900 mm, 45.1750 mm): PTH pad B12 [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on B.Cu, priority 3
+    @(121.0400 mm, 123.0000 mm): Pad 8 [GND] of IC2 on B.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(135.0400 mm, 46.5250 mm): PTH pad A12 [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(135.0400 mm, 45.1750 mm): PTH pad B1 [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(140.9900 mm, 45.1750 mm): PTH pad B12 [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(133.6900 mm, 45.5450 mm): PTH pad SH [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(106.0150 mm, 49.0750 mm): Pad 1 [GND] of C4 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(67.6900 mm, 49.0000 mm): Pad 2 [GND] of U4 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; 2 spokes connected to isolated island)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(105.7300 mm, 89.5000 mm): PTH pad 2 [GND] of IC1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; 2 spokes connected to isolated island)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(123.5100 mm, 74.2600 mm): PTH pad 32 [GND] of IC1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(146.3650 mm, 118.1750 mm): Pad 3 [GND] of U2 on F.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(114.6330 mm, 120.3655 mm): Via [Net-(IC2-I3)] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(120.7989 mm, 87.1537 mm): Via [Net-(IC2-I1)] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(114.6330 mm, 117.3725 mm): Via [Net-(IC2-I4)] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(114.1005 mm, 87.2746 mm): Via [Net-(IC2-I4)] on F.Cu - B.Cu
+[via_dangling]: Via is not connected or connected on only one layer
+    Local override; warning
+    @(134.9010 mm, 48.5335 mm): Via [Net-(J1-CC2)] on F.Cu - B.Cu
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(58.5000 mm, 60.5000 mm): Track [VCC] on B.Cu, length 0.7071 mm
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(133.4200 mm, 40.5250 mm): Segment of J1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(56.6900 mm, 40.5000 mm): Rectangle on Edge.Cuts
+    @(142.6100 mm, 40.5250 mm): Segment of J1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(86.4567 mm, 138.5000 mm): Reference field of OUTPUT0
+    @(88.9567 mm, 138.5000 mm): Segment of OUTPUT0 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(89.1967 mm, 136.5000 mm): Segment of OUTPUT0 on F.Silkscreen
+    @(86.4567 mm, 138.5000 mm): Reference field of OUTPUT0
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(146.7150 mm, 52.7600 mm): Reference field of U1
+    @(146.7162 mm, 52.7350 mm): Segment of C27 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(86.4567 mm, 138.5000 mm): Reference field of OUTPUT0
+    @(90.3800 mm, 138.5000 mm): Pad 1 [INJ1] of OUTPUT0 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(146.7150 mm, 52.7600 mm): Reference field of U1
+    @(145.9400 mm, 52.0000 mm): Pad 1 [Net-(U1-VDD)] of C27 on F.Cu
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(89.0000 mm, 61.5000 mm): PCB text 'INPUT
+1 - 5V OUT
+2 - MAP IN
+3 - AIR TEMP IN
+4 - COOLANT
+5 - TPS
+6 - O2 SENS
+7 - CAM
+8 - CRANK
+9-15 - SENSOR GROUND' on B.Silkscreen
+    @(72.7000 mm, 61.2300 mm): Reference field of R14
+
+** Found 8 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(60.3011 mm, 67.5308 mm): Pad 1 [GND] of C19 on F.Cu
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on B.Cu, priority 3
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on B.Cu, priority 3
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on B.Cu, priority 3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on B.Cu, priority 3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(137.0150 mm, 52.5000 mm): Pad 2 [GND] of R30 on F.Cu
+    @(57.0000 mm, 40.5000 mm): Zone [GND] on F.Cu, priority 2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(59.2150 mm, 60.0000 mm): Track [VCC] on F.Cu, length 2.7850 mm
+    @(58.5000 mm, 60.5000 mm): Track [VCC] on B.Cu, length 0.7071 mm
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

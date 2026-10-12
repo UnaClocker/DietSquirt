@@ -1,0 +1,183 @@
+ERC report (2026-10-01T22:54:33, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(7700 mils, 5500 mils): Symbol #12RAW0 Pin 1 [+12V, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(13100 mils, 4800 mils): Symbol #P+1 Pin 1 [VCC, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(13100 mils, 10200 mils): Symbol #GND1 Pin 1 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15400 mils, 6500 mils): Symbol IC1 Pin 6 [~{RST}, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(15400 mils, 6500 mils): Symbol IC1 Pin 6 [~{RST}, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15400 mils, 8200 mils): Symbol IC1 Pin 29 [PTB6/AD6, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15400 mils, 8300 mils): Symbol IC1 Pin 30 [PTB7/AD7, Bidirectional, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(15400 mils, 8800 mils): Symbol IC1 Pin 1 [VDDA, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17000 mils, 7100 mils): Symbol IC1 Pin 39 [PTA6/~{KBD6}, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17000 mils, 7200 mils): Symbol IC1 Pin 40 [PTA7/~{KBD7}, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17000 mils, 7700 mils): Symbol IC1 Pin 10 [PTC3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17000 mils, 7800 mils): Symbol IC1 Pin 11 [PTC4, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17000 mils, 8400 mils): Symbol IC1 Pin 16 [PTD1/MISO, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17000 mils, 8600 mils): Symbol IC1 Pin 18 [PTD3/SPSCK, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(19300 mils, 8300 mils): Symbol J1 Pin B7 [D-, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(19300 mils, 8500 mils): Symbol J1 Pin B6 [D+, Bidirectional, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(20750 mils, 7200 mils): Symbol U1 Pin 1 [VDD, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(21150 mils, 7400 mils): Symbol U1 Pin 9 [SDA, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(21150 mils, 7500 mils): Symbol U1 Pin 10 [SCL, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(21150 mils, 8000 mils): Symbol U1 Pin 2 [GP0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(21150 mils, 8100 mils): Symbol U1 Pin 3 [GP1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(21150 mils, 8200 mils): Symbol U1 Pin 7 [GP2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(21150 mils, 8300 mils): Symbol U1 Pin 8 [GP3, Bidirectional, Line]
+[similar_label_and_power]: Power pin and label are similar (lower/upper case difference only)
+    ; warning
+    @(1600 mils, 650 mils): Label 'V12'
+    @(21900 mils, 4100 mils): Symbol #V2 Pin 1 [+12V, Power input, Line]
+[similar_label_and_power]: Power pin and label are similar (lower/upper case difference only)
+    ; warning
+    @(1600 mils, 650 mils): Label 'V12'
+    @(8600 mils, 5000 mils): Symbol #V12 Pin 1 [+12V, Power input, Line]
+[similar_label_and_power]: Power pin and label are similar (lower/upper case difference only)
+    ; warning
+    @(1600 mils, 650 mils): Label 'V12'
+    @(20000 mils, 5700 mils): Symbol #V1 Pin 1 [+12V, Power input, Line]
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(8200 mils, 5500 mils): Global Label 'V12'
+    @(1600 mils, 650 mils): Label 'V12'
+[similar_label_and_power]: Power pin and label are similar (lower/upper case difference only)
+    ; warning
+    @(8200 mils, 5500 mils): Global Label 'V12'
+    @(21900 mils, 4100 mils): Symbol #V2 Pin 1 [+12V, Power input, Line]
+[similar_label_and_power]: Power pin and label are similar (lower/upper case difference only)
+    ; warning
+    @(8200 mils, 5500 mils): Global Label 'V12'
+    @(8600 mils, 5000 mils): Symbol #V12 Pin 1 [+12V, Power input, Line]
+[similar_label_and_power]: Power pin and label are similar (lower/upper case difference only)
+    ; warning
+    @(8200 mils, 5500 mils): Global Label 'V12'
+    @(20000 mils, 5700 mils): Symbol #V1 Pin 1 [+12V, Power input, Line]
+[multiple_net_names]: Both +12V and v12 are attached to the same items; +12V will be used in the netlist
+    ; warning
+    @(19900 mils, 5300 mils): Global Label '+12V'
+    @(8600 mils, 5000 mils): Symbol #V12 Pin 1 [+12V, Power input, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8600 mils, 3800 mils): Horizontal Wire, length 900 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8800 mils, 900 mils): Horizontal Wire, length 900 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8700 mils, 2300 mils): Horizontal Wire, length 1000 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 6500 mils): Horizontal Wire, length 900 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(13200 mils, 7100 mils): Horizontal Wire, length 500 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(15400 mils, 1300 mils): Horizontal Wire, length 200 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(15400 mils, 2700 mils): Horizontal Wire, length 200 mils
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(17400 mils, 6700 mils): Global Label 'JS3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(17400 mils, 7000 mils): Global Label 'JS0'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(17000 mils, 8500 mils): Horizontal Wire, length 500 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(18100 mils, 4200 mils): Vertical Wire, length 200 mils
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(18300 mils, 1300 mils): Global Label 'VCC'
+    @(5800 mils, 700 mils): Label 'VCC'
+[similar_label_and_power]: Power pin and label are similar (lower/upper case difference only)
+    ; warning
+    @(18400 mils, 1300 mils): Global Label 'V12'
+    @(21900 mils, 4100 mils): Symbol #V2 Pin 1 [+12V, Power input, Line]
+[similar_label_and_power]: Power pin and label are similar (lower/upper case difference only)
+    ; warning
+    @(18400 mils, 1300 mils): Global Label 'V12'
+    @(8600 mils, 5000 mils): Symbol #V12 Pin 1 [+12V, Power input, Line]
+[similar_label_and_power]: Power pin and label are similar (lower/upper case difference only)
+    ; warning
+    @(18400 mils, 1300 mils): Global Label 'V12'
+    @(20000 mils, 5700 mils): Symbol #V1 Pin 1 [+12V, Power input, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(18500 mils, 4200 mils): Vertical Wire, length 200 mils
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(19400 mils, 1300 mils): Global Label 'SPARE1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(20300 mils, 1300 mils): Global Label 'INJ4'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(20400 mils, 1300 mils): Global Label 'INJ3'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21500 mils, 7950 mils): Horizontal Wire, length 50 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'DietSquirt'
+    ; warning
+    @(21650 mils, 7650 mils): Symbol R34 [R-US_R0805]
+[footprint_link_issues]: The current configuration does not include the footprint library 'DietSquirt'
+    ; warning
+    @(21650 mils, 7950 mils): Symbol R35 [R-US_R0805]
+
+ ** ERC messages: 53  Errors 23  Warnings 30
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
