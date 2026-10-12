@@ -1,4 +1,24 @@
 # DietSquirt
+Version 4.0 PCB Update October 2026
+Migrated to KiCad 10.0, no more legacy Eagle requirements. The board is a 4 layer 100x100mm PCB now. Updated some components, 
+switched to more common and standard sized components. As of the time of this writing, the boards are in production.
+Included injector and coil drivers both this time. I know the injector drivers I picked will work with at least 2x 
+high impedance injectors each.
+I will update as needed with the results of the first test batch. Included the exact gerbers I submitted, but I have
+made some minor changes to the silkscreen on the back of the PCB since then. One way or another, I'd like to have a 
+functioning PCB to use in a vehicle in the next month, so this version will be fully tested here soon.
+B&G actually sent me a cease and desist back when I first released this 10 years ago. Based on some obscure patent.
+Well, it's been long enough that a patent would have expired by now. Given they started MegaSquirt around 2002, 
+patents only last 17 years and it's going on 25 now... I kept the Anonymous name on there to keep up the rebel
+spirit of this thing.
+I still have a pile of MS1 CPU's, so this board is still 68hc908 centric. But a minor refactoring would make it 
+perfectly happy with the MS2 CPU module or even MS3.
+
+
+
+
+--- Old notes circa 2017 ---
+
 Low cost DIY open source MegaSquirt derivative.
 
 Welcome to my incomplete project. This was meant to be a much cheaper 
